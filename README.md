@@ -11,7 +11,8 @@
 # What are we building?  
 We are building a personal site.  A place where we can blog, share examples of our work, and have people to contact us.
 
-# Who are we building it for?  We are building it for ourselves, but also the community.  Sharing what we are learning by blogging is a great way to learn for ourselves.  but we teach others in the process.  Show potential employers that we know what we are doing.
+# Who are we building it for?  
+We are building it for ourselves, but also the community.  Sharing what we are learning by blogging is a great way to learn for ourselves.  but we teach others in the process.  Show potential employers that we know what we are doing.
 # What features do we want to have?
 Posts
 create / Edit/ Destroy
@@ -49,9 +50,9 @@ User (Devise)
 		Devise
 
 ## Think through the pages we need in our app
-Home
-Posts
-Posts#
-Projects#index
-Projects#show
-Contact
+- Home
+- Posts
+- Posts#
+- Projects#index
+- Projects#show
+- Contact
